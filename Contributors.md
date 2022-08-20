@@ -27,7 +27,7 @@
 - [Jai Ganesh](https://github.com/jjaijg)
 - [Shubham Yadav]
 - [Conner Murowchick]
-- [Derrick Osei-Agyeman]
+- Derrick Osei-Agyeman
 - [Mohamed El omary](https://github.com/celomary)
 - [Mueen Ahmed](https://github.com/incmak)
 - [Yashraj](https://github.com/yashraj24)
